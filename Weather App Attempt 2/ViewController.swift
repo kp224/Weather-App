@@ -42,7 +42,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, UITableViewDe
     @IBOutlet weak var temp5: UILabel!
     @IBOutlet weak var image5: UIImageView!
     
-    let apiKey = "58679e3834c8305d49a45a66672739da"
+    let apiKey = "[API-KEY]"
     
     var geoLocation = "london"
     
