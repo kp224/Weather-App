@@ -4,7 +4,7 @@ This is a weather app developed using Swift and Xcode in the Spring of 2022. It 
 
 ## Getting Started
 
-To get started, clone this repository and open the `WeatherApp.xcodeproj` file in Xcode. Make sure to run `pod install` to install the required Cocoapods dependencies before running the app.
+To get started, clone this repository and open the workspace file in Xcode. Make sure to run `pod install` to install the required Cocoapods dependencies before running the app.
 
 ### Prerequisites
 
